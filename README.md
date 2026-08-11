@@ -13,3 +13,18 @@ I enjoy transforming raw data into meaningful insights and building data-driven 
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn
 - **Databases:** MySQL (CTEs, Joins, Subqueries, Window Functions)
 - **Tools:** MySQL Workbench, Jupyter Notebook, VS Code, Excel
+
+
+## 📊 Projects
+
+### 1. Sales Performance Analysis
+- Analyzed sales data using SQL and Python to identify sales trends, top-performing products, and regional performance.
+- Built an interactive Power BI dashboard to present key business insights and support data-driven decision making.
+
+### 2. Sentiment Analysis using NLP
+- Developed a sentiment analysis system using Python and Natural Language Processing techniques.
+- Applied text preprocessing and machine learning techniques to classify text into sentiment categories.
+
+### 3. Nalla Nudi – Kannada Bridge Dictionary
+- Developed an Android application to help Kannada-medium students understand English technical terminology.
+- Used structured technical vocabulary and explanations to provide Kannada meanings, pronunciation guidance, and real-world examples.
