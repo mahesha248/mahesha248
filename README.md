@@ -28,3 +28,9 @@ I enjoy transforming raw data into meaningful insights and building data-driven 
 ### 3. Nalla Nudi – Kannada Bridge Dictionary
 - Developed an Android application to help Kannada-medium students understand English technical terminology.
 - Used structured technical vocabulary and explanations to provide Kannada meanings, pronunciation guidance, and real-world examples.
+
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahesha-n-85a33a3aa)
+- 🐙 [GitHub](https://github.com/mahesha248)
