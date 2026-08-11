@@ -8,8 +8,8 @@ I enjoy transforming raw data into meaningful insights and building data-driven 
 
 ## 🛠️ Technical Skills
 
-- **Programming & Querying:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, Matplotlib
-- **Visualization:** Power BI, Excel, Tableau
-- **Database:** MySQL
-- **Tools:** Jupyter Notebook, VS Code, GitHub
+- **Programming & Querying:** Python, SQL, Java
+- **Data Visualization:** Power BI, Tableau, Microsoft Excel (Pivot Tables, VLOOKUP)
+- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn
+- **Databases:** MySQL (CTEs, Joins, Subqueries, Window Functions)
+- **Tools:** MySQL Workbench, Jupyter Notebook, VS Code, Excel
